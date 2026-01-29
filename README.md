@@ -1,4 +1,4 @@
-# Image Encryption Project
+# Image Encryption 
 
 ## Description
 This project encrypts images using AES encryption so only users with the correct key can decrypt them.
@@ -16,3 +16,4 @@ This project encrypts images using AES encryption so only users with the correct
 - Binary data encryption
 - Secure key handling
 - Random IV usage
+
